@@ -1,5 +1,5 @@
 function generatePlaceholder() {
-    const words = ["purple-platypus", "orange-octopus", "green-giraffe", "blue-butterfly"];
+    const words = ["purple-platypus", "orange-octopus", "think-studios", "blue-butterfly"];
     return words[Math.floor(Math.random() * words.length)];
 }
 
